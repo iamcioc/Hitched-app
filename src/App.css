@@ -1,0 +1,31 @@
+/* CSS VARIABLES */
+:root {
+  --blue: #1045e5;
+  --purple: purple;
+
+}
+.app{
+
+  /* height: 200px;
+  width: 200px;
+  background-image: linear linear-gradient(to right, #4169e1, purple); */
+}
+
+.mystic {
+  position: absolute;
+  width: 22rem;
+  height: 14rem;
+  background: #a6ddf0;
+  filter: blur(72px);
+  border-radius: 50%;
+}
+
+.goright{
+  top: -14%;
+  right: 0;
+}
+
+.goleft{
+  top: 36%;
+  left: -8rem;
+}
